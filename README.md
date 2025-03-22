@@ -10,7 +10,11 @@ Simulador automático de 1 millón de temporadas para comprobar las posibilidade
 
 ## Cómo ejecutar el programa
 
-En línea de comandos ejecutar dotnet run. En un AMD Ryzen 5 7600X 6-Core Processor usando el PC de forma normal tarda unos 20 segundos.
+En línea de comandos ejecutar:
+
+```dotnet run```
+
+En un AMD Ryzen 5 7600X 6-Core Processor usando el PC de forma normal tarda unos 20 segundos.
 
 En Program.cs se puede modificar fácilmente el número de hilos y de simulaciones por hilo.
 
@@ -30,4 +34,4 @@ Con el resultado pronóstico a cada equipo se el aplica de forma aleatoria un n�
 
 ## Cómo se simula una temporada
 
-Para simular una temporada se simulan todos los partidos pendientes (que aún no tengan resultado) siguiendo el método anterior.
+Para simular una temporada se simulan todos los partidos pendientes siguiendo el método anterior.
