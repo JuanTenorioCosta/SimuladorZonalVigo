@@ -12,7 +12,9 @@ Simulador automático de 1 millón de temporadas para comprobar las posibilidade
 
 En línea de comandos ejecutar:
 
-```dotnet run```
+```
+dotnet run
+```
 
 En un AMD Ryzen 5 7600X 6-Core Processor usando el PC de forma normal tarda unos 20 segundos.
 
@@ -35,3 +37,25 @@ Con el resultado pronóstico a cada equipo se el aplica de forma aleatoria un n�
 ## Cómo se simula una temporada
 
 Para simular una temporada se simulan todos los partidos pendientes siguiendo el método anterior.
+
+## Seguimiento de resultados
+
+Aquí voy añadiendo jornada a jornada los resultados parciales obtenidos por el simulador.
+
+### Índice
+
+* [Postjornada 22](#postjornada-22)
+
+### Postjornada 22
+
+Después de 1000002 simulaciones
+
+1. Novobasket clasifica el 99,73% de las veces
+2. Redeiras clasifica el 43,22% de las veces
+3. Nigrán clasifica el 28,19% de las veces
+4. PBB clasifica el 18,34% de las veces
+5. Illas Cíes clasifica el 7,69% de las veces
+6. Puerto Vigo clasifica el 2,31% de las veces
+7. Mar de Vigo clasifica el 0,32% de las veces
+8. Caselas clasifica el 0,20% de las veces
+9. Condado clasifica el 0,00% de las veces
