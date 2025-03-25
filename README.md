@@ -7,6 +7,7 @@ Simulador automático de 1 millón de temporadas para comprobar las posibilidade
 * [Cómo ejecutar el programa](#cómo-ejecutar-el-programa)
 * [Cómo se simulan los partidos](#cómo-se-simulan-los-partidos)
 * [Cómo se simula una temporada](#cómo-se-simula-una-temporada)
+* [Seguimiento de resultados](#seguimiento-de-resultados)
 
 ## Cómo ejecutar el programa
 
@@ -45,6 +46,7 @@ Aquí voy añadiendo jornada a jornada los resultados parciales obtenidos por el
 ### Índice
 
 * [Postjornada 22](#postjornada-22)
+* [Postjornada 23](#postjornada-23)
 
 ### Postjornada 22
 
@@ -59,3 +61,31 @@ Después de 1000002 simulaciones
 7. Mar de Vigo clasifica el 0,32% de las veces
 8. Caselas clasifica el 0,20% de las veces
 9. Condado clasifica el 0,00% de las veces
+
+> [!NOTE]
+>
+> Partidos aplazados:
+>
+> * Nigrán - Redeiras | Jornada 15
+> * Puerto Vigo - Redeiras | Jornada 20
+
+### Postjornada 23
+
+Después de 1000002 simulaciones
+
+1. Novobasket clasifica el 97,64% de las veces (-2,1%)
+2. Redeiras clasifica el 46,23% de las veces (+3%)
+3. Nigrán clasifica el 39,86% de las veces (+11,6%)
+4. Illas Cíes clasifica el 11,98% de las veces (+4,4%)
+5. Puerto Vigo clasifica el 3,40% de las veces (+1,1%)
+6. PBB clasifica el 0,49% de las veces (-17,9%)
+7. Caselas clasifica el 0,36% de las veces (+0,16%)
+8. Mar de Vigo clasifica el 0,04% de las veces (-0,28%)
+
+> [!NOTE]
+>
+> Partidos aplazados:
+>
+> * Nigrán - Redeiras | Jornada 15
+> * Puerto Vigo - Redeiras | Jornada 20
+> * Mos - Rodaballo | Jornada 23

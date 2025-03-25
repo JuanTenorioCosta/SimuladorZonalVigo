@@ -465,12 +465,12 @@ public class Season : ICloneable
             new( Teams[10], Teams[13] )
         ];
 
-        // Matches[22][0].SetGamePlayed( [ 63, 57 ] ); Nigrán - Condado
-        // Matches[22][1].SetGamePlayed( [ 53, 62 ] ); Apostol - Caselas
-        // Matches[22][2].SetGamePlayed( [ 83, 65 ] ); Puerto - Novobasket
-        // Matches[22][3].SetGamePlayed( [ 46, 48 ] ); Illas Cíes - PBB
-        // Matches[22][4].SetGamePlayed( [ 46, 57 ] ); Redeiras - CBA
-        // Matches[22][5].SetGamePlayed( [ 69, 70 ] ); Mar de Vigo - Seis do Nadal
+        Matches[22][0].SetGamePlayed( [ 69, 64 ] ); // Nigrán - Condado
+        Matches[22][1].SetGamePlayed( [ 53, 62 ] ); // Apostol - Caselas
+        Matches[22][2].SetGamePlayed( [ 86, 75 ] ); // Puerto - Novobasket
+        Matches[22][3].SetGamePlayed( [ 68, 59 ] ); // Illas Cíes - PBB
+        Matches[22][4].SetGamePlayed( [ 61, 50 ] ); // Redeiras - CBA
+        Matches[22][5].SetGamePlayed( [ 92, 82 ] ); // Mar de Vigo - Seis do Nadal
         // Matches[22][6].SetGamePlayed( [ 55, 82 ] ); Mos - Rodaballo
 
         // MARK: Week 24
@@ -531,6 +531,8 @@ public class Season : ICloneable
         // Matches[25][6].SetGamePlayed( [ 55, 82 ] ); CBA - Puerto
     }
 
+
+    // MARK: Clone
     public object Clone()
     {
         Team[] clonedTeams = [.. Teams.Select(team => (Team)team.Clone())];
