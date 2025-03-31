@@ -47,6 +47,7 @@ Aquí voy añadiendo jornada a jornada los resultados parciales obtenidos por el
 
 * [Postjornada 22](#postjornada-22)
 * [Postjornada 23](#postjornada-23)
+* [Postjornada 24](#postjornada-24)
 
 ### Postjornada 22
 
@@ -89,3 +90,24 @@ Después de 1000002 simulaciones
 > * Nigrán - Redeiras | Jornada 15
 > * Puerto Vigo - Redeiras | Jornada 20
 > * Mos - Rodaballo | Jornada 23
+
+### Postjornada 24
+
+Después de 1000002 simulaciones
+
+1. Novobasket clasifica el 96,43% de las veces (-1,2%)
+2. Nigrán clasifica el 54,12% de las veces (+14,12%)
+3. Redeiras clasifica el 40,84% de las veces (-5,5%)
+4. Illas Cíes clasifica el 8,56% de las veces (-3,5%)
+5. PBB clasifica el 0,04% de las veces (-0,45%)
+6. Mar de Vigo clasifica el 0,00% de las veces (-0,04%)
+7. Puerto Vigo clasifica el 0,00% de las veces (-3,40%)
+
+> [!NOTE]
+>
+> Partidos aplazados:
+>
+> * Nigrán - Redeiras | Jornada 15
+> * Puerto Vigo - Redeiras | Jornada 20
+> * Mos - Rodaballo | Jornada 23
+> * Apostol - Novobasket | Jornada 24

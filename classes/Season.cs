@@ -485,12 +485,12 @@ public class Season : ICloneable
         ];
 
         // Matches[23][0].SetGamePlayed( [ 63, 57 ] ); Apostol - Novobasket
-        // Matches[23][1].SetGamePlayed( [ 44, 69 ] ); Caselas - Nigrán
-        // Matches[23][2].SetGamePlayed( [ 83, 65 ] ); Condado - Mar de Vigo
-        // Matches[23][3].SetGamePlayed( [ 46, 48 ] ); Seis - Redeiras
-        // Matches[23][4].SetGamePlayed( [ 46, 57 ] ); PBB - Rodaballo
-        // Matches[23][5].SetGamePlayed( [ 69, 70 ] ); CBA - Illas Cíes
-        // Matches[23][6].SetGamePlayed( [ 55, 82 ] ); Mos - Puerto
+        Matches[23][1].SetGamePlayed( [ 50, 62 ] ); // Caselas - Nigrán
+        Matches[23][2].SetGamePlayed( [ 58, 78 ] ); // Condado - Mar de Vigo
+        Matches[23][3].SetGamePlayed( [ 61, 68 ] ); // Seis - Redeiras
+        Matches[23][4].SetGamePlayed( [ 76, 66 ] ); // PBB - Rodaballo
+        Matches[23][5].SetGamePlayed( [ 46, 74 ] ); // CBA - Illas Cíes
+        Matches[23][6].SetGamePlayed( [ 68, 67 ] ); // Mos - Puerto
 
         // MARK: Week 25
         Matches[24] = [
