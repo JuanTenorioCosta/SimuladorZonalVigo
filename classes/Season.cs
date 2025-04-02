@@ -414,7 +414,7 @@ public class Season : ICloneable
         Matches[19][3].SetGamePlayed([49, 67]);
         Matches[19][4].SetGamePlayed([55, 66]);
         Matches[19][5].SetGamePlayed([54, 68]);
-        // Matches[19][6].SetGamePlayed( [ 76, 52 ] ); Puerto Vigo - Redeiras
+        Matches[19][6].SetGamePlayed([60, 72]); // Puerto Vigo - Redeiras
 
         // MARK: Week 21
         Matches[20] = [
@@ -471,7 +471,7 @@ public class Season : ICloneable
         Matches[22][3].SetGamePlayed( [ 68, 59 ] ); // Illas Cíes - PBB
         Matches[22][4].SetGamePlayed( [ 61, 50 ] ); // Redeiras - CBA
         Matches[22][5].SetGamePlayed( [ 92, 82 ] ); // Mar de Vigo - Seis do Nadal
-        // Matches[22][6].SetGamePlayed( [ 55, 82 ] ); Mos - Rodaballo
+        Matches[22][6].SetGamePlayed( [ 59, 43 ] ); // Mos - Rodaballo
 
         // MARK: Week 24
         Matches[23] = [
@@ -484,7 +484,7 @@ public class Season : ICloneable
             new( Teams[10], Teams[8] )
         ];
 
-        // Matches[23][0].SetGamePlayed( [ 63, 57 ] ); Apostol - Novobasket
+        Matches[23][0].SetGamePlayed( [ 49, 58 ] ); // Apostol - Novobasket
         Matches[23][1].SetGamePlayed( [ 50, 62 ] ); // Caselas - Nigrán
         Matches[23][2].SetGamePlayed( [ 58, 78 ] ); // Condado - Mar de Vigo
         Matches[23][3].SetGamePlayed( [ 61, 68 ] ); // Seis - Redeiras
@@ -557,7 +557,7 @@ public class Season : ICloneable
     // MARK: Simulador
     public void Simulate()
     {
-        int[] weeksWithPendingDays = [15, 20, 23, 24, 25, 26];
+        int[] weeksWithPendingDays = [15, 25, 26];
 
         foreach (int week in weeksWithPendingDays)
         {
