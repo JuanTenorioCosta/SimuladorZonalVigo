@@ -128,3 +128,19 @@ Después de 1000002 simulaciones
 > Partidos aplazados:
 >
 > * Nigrán - Redeiras | Jornada 15
+
+### Postjornada 25
+
+Después de 1000002 simulaciones
+
+1. Novobasket clasifica el 100,00% de las veces (+1,62%)
+2. Nigrán clasifica el 50,02% de las veces (+9,5%)
+3. Redeiras clasifica el 48,69% de las veces (-9,5%)
+4. Illas Cíes clasifica el 1,29% de las veces (-1,6%)
+
+> [!NOTE]
+>
+> Partidos aplazados:
+>
+> * Nigrán - Redeiras | Jornada 15
+> * Redeiras - Condado | Jornada 25

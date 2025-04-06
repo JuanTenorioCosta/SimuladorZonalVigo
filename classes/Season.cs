@@ -503,12 +503,12 @@ public class Season : ICloneable
             new( Teams[0], Teams[7] )
         ];
 
-        // Matches[24][0].SetGamePlayed( [ 63, 57 ] ); Illas Cíes - Seis
-        // Matches[24][1].SetGamePlayed( [ 44, 69 ] ); Mar de Vigo - Caselas
-        // Matches[24][2].SetGamePlayed( [ 83, 65 ] ); Nigrán - Apostol
-        // Matches[24][3].SetGamePlayed( [ 46, 48 ] ); Mos - Novobasket
-        // Matches[24][4].SetGamePlayed( [ 46, 57 ] ); Puerto - PBB
-        // Matches[24][5].SetGamePlayed( [ 69, 70 ] ); Rodaballo - CBA
+        Matches[24][0].SetGamePlayed( [ 70, 43 ] ); // Illas Cíes - Seis
+        Matches[24][1].SetGamePlayed( [ 77, 47 ] ); // Mar de Vigo - Caselas
+        Matches[24][2].SetGamePlayed( [ 51, 42 ] ); // Nigrán - Apostol
+        Matches[24][3].SetGamePlayed( [ 49, 59 ] ); // Mos - Novobasket
+        Matches[24][4].SetGamePlayed( [ 50, 64 ] ); // Puerto - PBB
+        Matches[24][5].SetGamePlayed( [ 42, 58 ] ); // Rodaballo - CBA
         // Matches[24][6].SetGamePlayed( [ 55, 82 ] ); Redeiras - Condado
 
         // MARK: Week 26
