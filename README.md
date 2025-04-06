@@ -49,6 +49,7 @@ Aquí voy añadiendo jornada a jornada los resultados parciales obtenidos por el
 * [Postjornada 23](#postjornada-23)
 * [Postjornada 24](#postjornada-24)
 * [Postjornada partidos aplazados J20, J23, J24](#postjornada-partidos-aplazados-j20-j23-j24)
+* [Postjornada 25](#postjornada-25)
 
 ### Postjornada 22
 
